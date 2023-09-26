@@ -1,5 +1,4 @@
-### Nice to meet you guys! 🙌
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Nice%20to%20meet%20you%20everyone!%20🙌&fontSize=50)
 Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 
 - 🧑‍🎓 I’m currently attending Department of Medicine, Kyung Hee University College of Medicine, Seoul, South Korea.
