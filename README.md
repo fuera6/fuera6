@@ -6,18 +6,18 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 - 💻 I’m currently learning machine learning and web development.
 - 🏸 My hobby is playing badminton.
 - 🤔 I’m looking for help with the healthcare AI roadmap.
-
 #
 
-🗨️ SNS
+🗨️ Contact
 
-<a href="https://instagram.com/sjxk1m?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/instagram-161B21?style=flat&logo=instagram&logoColor=0CDAE0"/></a>
+<div style="display:flex; flex-direction:row;">
+  <a href="https://instagram.com/sjxk1m?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/instagram-161B21?style=flat&logo=instagram&logoColor=0CDAE0"/></a>
+  
+  <a href="mailto:ksjross@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+</div>
 
-📧 Email
-
-ksjross@gmail.com
-
-ksjross6@khu.ac.kr
+<br>
 
 💡 Used as the main
 
@@ -26,17 +26,24 @@ ksjross6@khu.ac.kr
 
 <a target="_blank"><img src="https://img.shields.io/badge/PyCharm-161B21?style=flat&logo=pycharm&logoColor=00D326"/></a>
 
+<br>
+
 💡 Used at least once
 
 <a target="_blank"><img src="https://img.shields.io/badge/C-161B21?style=flat&logo=c&logoColor=EF8B00"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/JAVA-161B21?style=flat&logo=square&logoColor=FC3F00"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/SAS-161B21?style=flat&logo=square&logoColor=9200DB"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JAVA-161B21?style=flat&logo=JAVA&logoColor=FC3F00"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/SAS-161B21?style=flat&logo=SAS&logoColor=9200DB"/></a>
+
+<a target="_blank"><img src="https://img.shields.io/badge/Visual Studio-161B21?style=flat&logo=visualstudio&logoColor=A600ED"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Android Studio-161B21?style=flat&logo=androidstudio&logoColor=4DC100"/></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/TensorFlow-161B21?style=flat&logo=tensorflow&logoColor=F78800"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Keras-161B21?style=flat&logo=keras&logoColor=F73100"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Pygame-161B21?style=flat&logo=namecheap&logoColor=F4E000"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Pygame-161B21?style=flat&logo=Pygame&logoColor=F4E000"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/tkinter-161B21?style=flat&logo=python&logoColor=0069EA"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Android Studio-161B21?style=flat&logo=androidstudio&logoColor=4DC100"/></a>
+
+<a target="_blank"><img src="https://img.shields.io/badge/git-161B21?style=flat&logo=git&logoColor=EF4B00"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Sourcetree-161B21?style=flat&logo=sourcetree&logoColor=0031F7"/></a>
 
 #
 
