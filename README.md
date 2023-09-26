@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://instagram.com/sjxk1m?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/instagram-0D1117?style=flat-square&logo=instagram&logoColor=0CDAE0"/></a>
+<a href="https://instagram.com/sjxk1m?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/instagram-161B21?style=flat-square&logo=instagram&logoColor=0CDAE0"/></a>
