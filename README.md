@@ -2,6 +2,11 @@
 
 Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 
+- 🧑‍🎓 I’m currently attending Department of Medicine, Kyung Hee University College of Medicine, Seoul, South Korea.
+- 💻 I’m currently learning machine learning and web development.
+- 🏸 My hobby is playing badminton.
+- 🤔 I’m looking for help with the healthcare AI roadmap.
+
 #
 
 🗨️ SNS
@@ -30,13 +35,6 @@ ksjross@gmail.com
 <a target="_blank"><img src="https://img.shields.io/badge/Pygame-161B21?style=flat&logo=namecheap&logoColor=F4E000"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/tkinter-161B21?style=flat&logo=python&logoColor=0069EA"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Android Studio-161B21?style=flat&logo=androidstudio&logoColor=4DC100"/></a>
-
-#
-
-- 🧑‍🎓 I’m currently attending Department of Medicine, Kyung Hee University College of Medicine, Seoul, South Korea.
-- 💻 I’m currently learning machine learning and web development.
-- 🤔 I’m looking for help with the healthcare AI roadmap.
-- 🏸 My hobby is playing badminton.
 
 #
 
