@@ -17,6 +17,8 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 
 ksjross@gmail.com
 
+ksjross6@khu.ac.kr
+
 💡 Used as the main
 
 <a target="_blank"><img src="https://img.shields.io/badge/Python-161B21?style=flat&logo=python&logoColor=0069EA"/></a>
