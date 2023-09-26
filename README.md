@@ -39,9 +39,10 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 <a target="_blank"><img src="https://img.shields.io/badge/TensorFlow-161B21?style=flat&logo=tensorflow&logoColor=F78800"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Keras-161B21?style=flat&logo=keras&logoColor=F73100"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Pygame-161B21?style=flat&logo=Pygame&logoColor=F4E000"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/tkinter-161B21?style=flat&logo=python&logoColor=0069EA"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/tkinter-161B21?style=flat&logo=tkinter&logoColor=0069EA"/></a>
 
-<a target="_blank"><img src="https://img.shields.io/badge/git-161B21?style=flat&logo=git&logoColor=EF4B00"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Git-161B21?style=flat&logo=git&logoColor=EF4B00"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/GitHub-161B21?style=flat&logo=github&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Sourcetree-161B21?style=flat&logo=sourcetree&logoColor=0031F7"/></a>
 
 #
