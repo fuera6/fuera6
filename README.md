@@ -4,7 +4,7 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 - 🧑‍🎓 I’m currently attending Department of Medicine, Kyung Hee University College of Medicine, Seoul, South Korea.
 - 💻 I’m currently learning machine learning and web development.
 - 🏸 My hobby is playing badminton.
-- 🤔 I’m looking for help with the healthcare AI roadmap.
+- 🤔 I’m looking for help with the AI healthcare roadmap.
 #
 
 🗨️ Contact
