@@ -23,6 +23,7 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 <a target="_blank"><img src="https://img.shields.io/badge/Python-161B21?style=flat&logo=python&logoColor=0069EA"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/R-161B21?style=flat&logo=r&logoColor=008EE0"/></a>
 
+<a target="_blank"><img src="https://img.shields.io/badge/VSCode-161B21?style=flat&logo=visualstudiocode&logoColor=007ACC"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PyCharm-161B21?style=flat&logo=pycharm&logoColor=00D326"/></a>
 
 <br>
