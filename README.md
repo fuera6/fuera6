@@ -37,7 +37,7 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 <a target="_blank"><img src="https://img.shields.io/badge/Visual Studio-161B21?style=flat&logo=visualstudio&logoColor=A600ED"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Android Studio-161B21?style=flat&logo=androidstudio&logoColor=4DC100"/></a>
 
-<a target="_blank"><img src="https://img.shields.io/badge/ScikitLearn-161B21?style=flat&logo=scikitlearn&logoColor=#F7931E"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/scikit learn-161B21?style=flat&logo=scikitlearn&logoColor=#F7931E"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/TensorFlow-161B21?style=flat&logo=tensorflow&logoColor=F78800"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Keras-161B21?style=flat&logo=keras&logoColor=F73100"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Pygame-161B21?style=flat&logo=Pygame&logoColor=F4E000"/></a>
