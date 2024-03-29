@@ -22,6 +22,7 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 
 <a target="_blank"><img src="https://img.shields.io/badge/Python-161B21?style=flat&logo=python&logoColor=0069EA"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/R-161B21?style=flat&logo=r&logoColor=008EE0"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/SAS-161B21?style=flat&logo=SAS&logoColor=9200DB"/></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/VSCode-161B21?style=flat&logo=visualstudiocode&logoColor=007ACC"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PyCharm-161B21?style=flat&logo=pycharm&logoColor=00D326"/></a>
@@ -32,7 +33,6 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 
 <a target="_blank"><img src="https://img.shields.io/badge/C-161B21?style=flat&logo=c&logoColor=EF8B00"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JAVA-161B21?style=flat&logo=JAVA&logoColor=FC3F00"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/SAS-161B21?style=flat&logo=SAS&logoColor=9200DB"/></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/Visual Studio-161B21?style=flat&logo=visualstudio&logoColor=A600ED"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Android Studio-161B21?style=flat&logo=androidstudio&logoColor=4DC100"/></a>
