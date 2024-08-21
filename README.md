@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Nice%20to%20meet%20you%20everyone!%20🙌&fontSize=50)
 Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 
-- 🧑‍🎓 I’m currently attending Department of Medicine, Kyung Hee University College of Medicine, Seoul, South Korea.
-- 💻 I’m currently learning umbrella meta analysis.
+- 🪖 I'm currently serving in the armed forces.
+- 🧑‍🎓 I’m on a leave of absence from the Department of Medicine, Kyung Hee University College of Medicine, Seoul, South Korea.
 - 🏸 My hobby is playing badminton.
 - 🤔 I’m looking for help with the digital healthcare roadmap.
 #
@@ -14,6 +14,11 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
   
   <a href="mailto:ksjross@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+
+  <a href="https://scholar.google.com/citations?user=xn6Fo5UAAAAJ&hl=ko" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar">
+</a>
+
 </div>
 
 <br>
@@ -25,7 +30,8 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 <a target="_blank"><img src="https://img.shields.io/badge/SAS-161B21?style=flat&logo=SAS&logoColor=9200DB"/></a>
 
 <a target="_blank"><img src="https://img.shields.io/badge/VSCode-161B21?style=flat&logo=visualstudiocode&logoColor=007ACC"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/PyCharm-161B21?style=flat&logo=pycharm&logoColor=00D326"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/RStudio-161B21?style=flat&logo=rstudioide&logoColor=007ACC"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/SAS Enterprise Guide-161B21?style=flat&logo=sasenterprise&logoColor=007ACC"/></a>
 
 <br>
 
@@ -34,6 +40,7 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 <a target="_blank"><img src="https://img.shields.io/badge/C-161B21?style=flat&logo=c&logoColor=EF8B00"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/JAVA-161B21?style=flat&logo=JAVA&logoColor=FC3F00"/></a>
 
+<a target="_blank"><img src="https://img.shields.io/badge/PyCharm-161B21?style=flat&logo=pycharm&logoColor=00D326"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Visual Studio-161B21?style=flat&logo=visualstudio&logoColor=A600ED"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Android Studio-161B21?style=flat&logo=androidstudio&logoColor=4DC100"/></a>
 
