@@ -52,6 +52,20 @@ Hi! My name is Seokjun Kim. Hope you enjoy my GitHub!
 <a target="_blank"><img src="https://img.shields.io/badge/GitHub-161B21?style=flat&logo=github&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Sourcetree-161B21?style=flat&logo=sourcetree&logoColor=0031F7"/></a>
 
+<br>
+
+📚 Datasets I have used
+
+<div style="display:flex; flex-direction:row;">
+  <a href="https://www.kdca.go.kr/yhs/home.jsp" target="_blank"><img src="https://img.shields.io/badge/KYRBS-161B21?style=flat&logo=&logoColor=white"></a>
+  <a href="https://knhanes.kdca.go.kr/knhanes/main.do" target="_blank"><img src="https://img.shields.io/badge/KNHANES-161B21?style=flat&logo=&logoColor=white"></a>
+  <a href="https://chs.kdca.go.kr/chs/index.do" target="_blank"><img src="https://img.shields.io/badge/KCHS-161B21?style=flat&logo=&logoColor=white"></a>
+  <a href="https://www.cdc.gov/yrbs/index.html" target="_blank"><img src="https://img.shields.io/badge/YRBS-161B21?style=flat&logo=&logoColor=white"></a>
+  <a href="https://www.ungdata.no/" target="_blank"><img src="https://img.shields.io/badge/Ungdata-161B21?style=flat&logo=&logoColor=white"></a>
+  <a href="https://gco.iarc.fr/en" target="_blank"><img src="https://img.shields.io/badge/GLOBOCAN-161B21?style=flat&logo=&logoColor=white"></a>
+  <a href="https://ci5.iarc.fr/ci5plus/" target="_blank"><img src="https://img.shields.io/badge/CI5 Plus-161B21?style=flat&logo=&logoColor=white"></a>
+</div>
+
 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuera6&show_icons=true&theme=tokyonight)
